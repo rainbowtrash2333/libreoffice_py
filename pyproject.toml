@@ -3,17 +3,17 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "ooouno-ex"
-version = "3.0.0"
-description = "Examples for LibreOffice python"
+name = "libreoffice_py"
+version = "0.1.0"
+description = "auto gengerate tables and report"
 license = "MIT"
 readme = "README.md"
 authors = [
-    ":Barry-Thomas-Paul: Moss <bigbytetech@gmail.com>"
+    ":Twikura"
 ]
-homepage = "https://github.com/Amourspirit/python-ooouno-ex"
-documentation = "https://github.com/Amourspirit/python-ooouno-ex"
-repository = "https://github.com/Amourspirit/python-ooouno-ex"
+homepage = "https://github.com/rainbowtrash2333/libreoffice_py"
+documentation = "https://github.com/rainbowtrash2333/libreoffice_py"
+repository = "https://github.com/rainbowtrash2333/libreoffice_py"
 
 
 [tool.poetry.dependencies]
